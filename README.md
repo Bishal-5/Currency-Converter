@@ -10,8 +10,8 @@
 <ol type="I">
   <li><strong>Easy-to-Use Interface:</strong> The intuitive design makes it easy for users to input values, select currencies, and view the converted result quickly.</li>
   <li><strong>Real-Time Exchange Rates:</strong> The application fetches the latest exchange rates from a reliable source to ensure accurate and up-to-date currency conversion.</li>
-  <li><strong>Responsive Design:</strong> The application is built with responsiveness in mind, ensuring a seamless experience across various devices and screen sizes.</li>
   <li><strong>Supports Multiple Currencies:</strong> The converter supports a wide range of currencies, enabling users to convert between various international currencies.</li>
+  <li><strong>Responsive Design:</strong> The application is built with responsiveness in mind, ensuring a seamless experience across various devices and screen sizes.</li>
 </ol>
 
 <h2>How To Use?</h2>
