@@ -2,7 +2,7 @@
 <p>The Currency Converter is a lightweight and user-friendly tool designed to quickly convert between different currencies. With a clean and intuitive interface, users can easily input the amount, select the source currency, and choose the target currency for conversion. The application fetches real-time exchange rates using a reliable API, ensuring accurate and up-to-date conversions.</p>
 
 <h2>Demo</h2>
-<a href="https://bishal-currency-converter.netlify.app/">Click Here</a> <strong>To See The Aapplication In Action.</strong>
+<a href="https://bishal-currency-converter.netlify.app/">Click Here</a> <strong>To See The Application In Action.</strong>
 
 <h2><img src="https://github.com/Bishal-5/Currency-Converter/blob/d6a175baa418d60a6084597dad172e57a3afc7c7/Currency%20Converter/Screenshot/Screenshot.png"></h2>
 
