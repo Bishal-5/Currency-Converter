@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 15cm;
+    background-color: #9CCDDB;
+}
+label{
+    font-size: 19px;
+}
+.container{
+    background-color: white;
+    padding: 14px;
+    border-radius: 18px;
+    height: 25rem;
+    width: 11cm;
+}
+fieldset{
+    height: 25rem;
+    border-radius: 14px;
+}
+legend{
+    color: darkblue;
+    text-align: center;
+    font-family: math;
+}
+form{
+    padding: 24px;
+}
+select, input{
+    width: 100%;
+    outline: none;
+    cursor: pointer;
+    border-radius: 17px;
+    border: none;
+} 
+input{
+    border: 1px solid lightskyblue;
+    font-size: 14px;
+    padding: 5px 0px 5px 12px;
+    cursor: text;
+    margin-top: 8px;
+    width: 14rem;
+}
+.opt-select img{
+    max-width: 3rem;
+}
+.option{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4rem;
+}
+.opt-select{
+    display: flex;
+    width: 108px;
+    border-radius: 13px;
+    border: 1px solid lightskyblue;
+}
+i{
+    font-size: 2rem;
+    margin-top: 1.5rem;
+}
+.opt-select select{
+    font-size: 15px;
+    width: auto;
+}
+.result{
+    margin-left: 1px;
+    margin-top: 2rem;
+    background-color: black;
+}
+.result p{
+    margin-left: 15px;
+    color: white;
+    font-size: 20px;
+    margin-right: 10px;
+}
+button{
+    width: 54%;
+    margin-top: 23px;
+    font-size: 23px;
+    height: 37px;
+    margin-left: 81px;
+    border-radius: 11px;
+    background-color: #064469;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
