@@ -32,7 +32,7 @@
 <h2>Contributions</h2>
 <p>If you would like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.</p>
 
-<h2>Acknowledgements</h2>
+<h2>Acknowledgement</h2>
 <p>Exchange rates provided by "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/usd/inr.json"</p>
 
 <h2>Made by</h2>
