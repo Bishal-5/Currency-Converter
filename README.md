@@ -36,5 +36,5 @@
 <p>Exchange rates provided by "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/usd/inr.json"</p>
 
 <h2>Made by</h2>
-<li><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
-<li><a href="https://www.linkedin.com/in/bishal-naskar-2a5716250/">LinkedIN</a></li>
+<li><strong>GitHub </strong><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
+<li><strong>LinkedIN </strong><a href="https://www.linkedin.com/in/bishal-naskar-2a5716250/">Bishal Naskar</a></li>
