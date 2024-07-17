@@ -33,7 +33,7 @@
 <p>If you would like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.</p>
 
 <h2>Acknowledgement</h2>
-<p>Exchange rates provided by "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/usd/inr.json"</p>
+<p>Exchange rates provided by "https://2024-03-06.currency-api.pages.dev/v1/currencies/usd.json"</p>
 
 <h2>Made by</h2>
 <li><strong>GitHub </strong><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
